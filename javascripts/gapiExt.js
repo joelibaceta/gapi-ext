@@ -63,9 +63,9 @@
         gDriveConfig: {
             // see https://developers.google.com/api-client-library/javascript/reference/referencedocs#gapiauthauthorize
             //client_id string  The application's client ID. Visit the Google API Console to get an OAuth 2.0 client ID.
-            clientId: '849240717582-6hfo6rp231fgfh0dqok4au8fvou4108c.apps.googleusercontent.com',
+            clientId: '762999952362-h9jjm47tttooaf2prkvl7jmjaqb98l39.apps.googleusercontent.com',
             // scope    string | array  The auth scope or scopes to authorize as a space-delimited string or array (deprecated). Auth scopes for individual APIs can be found in their documentation.
-            scopes: 'https://www.googleapis.com/auth/drive',
+            scopes: 'https://sites.google.com/feeds/',
             // immediate    boolean If true, then login uses "immediate mode", which means that the token is refreshed behind the scenes, and no UI is shown to the user.
             immediate: false,
             // response_type    string  The OAuth 2.0 response type property. Default: token
